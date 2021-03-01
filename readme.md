@@ -74,3 +74,9 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 ## How to host a Laravel project on Heroku
 After pushing your laravel project to GitHub, deploy the app in Heroku and click your Heroku URL website link. You should see a "Forbidden" error screen which is a good sign. Now we need to create a file named "Procfile in the root directory of your project with "web: vendor/bin/heroku-php-apache2 public/" and make sure it has been pushed to GitHub. If you go to your Heroku website again you should receive a "500 | Server Error" which is a Laravel error page which also means your project has been deployed successfully. Heroku doesn't work with the Laravel .env file so you need to manually add your variables to Heroku by going to "Deploy" --> Click "Reveal Config Vars". Add the neccessary variables then try again and you should see your Laravel Home page displayed properly.  
 - https://just1and0.medium.com/how-to-host-your-laravel-application-for-free-on-heroku-4789688d444b
+
+## Cloud Hosted Websites
+Azure: 
+Heroku: https://demo-cloud-app.herokuapp.com/
+AWS: 
+Google Cloud: 
