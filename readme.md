@@ -80,7 +80,7 @@ Azure:
 Heroku: https://demo-cloud-app.herokuapp.com/
 AWS: 
 Google Cloud: 
-- [Azure Link]().
-- [Heroku Link](https://demo-cloud-app.herokuapp.com/).
-- [Amazon Web Services]().
-- [Google Cloud]().
+- [Azure Project Link]().
+- [Heroku Project Link](https://demo-cloud-app.herokuapp.com/).
+- [Amazon Web Services Project Link]().
+- [Google Cloud Project Link]().
