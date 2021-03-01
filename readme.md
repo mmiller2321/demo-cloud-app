@@ -76,10 +76,6 @@ After pushing your laravel project to GitHub, deploy the app in Heroku and click
 - https://just1and0.medium.com/how-to-host-your-laravel-application-for-free-on-heroku-4789688d444b
 
 ## Cloud Hosted Websites
-Azure: 
-Heroku: https://demo-cloud-app.herokuapp.com/
-AWS: 
-Google Cloud: 
 - [Azure Project Link]().
 - [Heroku Project Link](https://demo-cloud-app.herokuapp.com/).
 - [Amazon Web Services Project Link]().
