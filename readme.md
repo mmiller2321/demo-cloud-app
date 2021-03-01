@@ -80,7 +80,7 @@ Azure:
 Heroku: https://demo-cloud-app.herokuapp.com/
 AWS: 
 Google Cloud: 
-- Azure [database ORM]().
-- Heroku [database ORM](https://demo-cloud-app.herokuapp.com/).
-- AWS (Amazon Web Services) [database ORM]().
-- Google Cloud: [database ORM]().
+- Azure [Azure Link]().
+- Heroku [Heroku Link](https://demo-cloud-app.herokuapp.com/).
+- AWS [Amazon Web Services]().
+- Google Cloud: [Google Cloud]().
