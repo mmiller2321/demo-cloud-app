@@ -559,7 +559,8 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.8.38",
+            //"version": "v5.8.38",    //This is the original and was updated for improved security.
+            "version": "6.18.43"
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
