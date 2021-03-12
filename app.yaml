@@ -6,7 +6,7 @@ runtime_config:
   skip_lockdown_document_root: true
 
 beta_settings:
-  cloud_sql_instances: my-php-project-cst-323:us-central1:testdb
+  cloud_sql_instances: demo-cloud-app:us-west2:testdb
 
 env_variables:
   # Put production environment variables here.
