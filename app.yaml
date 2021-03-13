@@ -6,11 +6,13 @@ runtime_config:
   skip_lockdown_document_root: true
 
 beta_settings:
+  # Project name - location - database name
   cloud_sql_instances: demo-cloud-app:us-west2:testdb
 
 env_variables:
   # Put production environment variables here.
   APP_LOG: errorlog
+  # App_Key for Google Cloud Deployment 
   APP_KEY: base64:law5wIwE8KAUMixI70hQp85mUI5jj06jcKPlV2wGeo4=
   STORAGE_DIR: /tmp
 
