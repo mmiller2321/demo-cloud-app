@@ -12,8 +12,10 @@ beta_settings:
 env_variables:
   # Put production environment variables here.
   APP_LOG: errorlog
-  # App_Key for Google Cloud Deployment 
-  APP_KEY: base64:law5wIwE8KAUMixI70hQp85mUI5jj06jcKPlV2wGeo4=
+  # App_Key updated for Google Cloud Deployment. 
+  # Go to Eclipse project and typ "php artisan key:generate --show" to get the project APP_KEY".
+  APP_KEY: base64:s8GboDQ7xTouWG2E+SqKzpVJbvuMOQWvUgKsNc5KyKg=
+  
   STORAGE_DIR: /tmp
 
 # This sample incurs costs to run on the App Engine flexible environment.
